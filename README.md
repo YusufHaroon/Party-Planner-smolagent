@@ -2,7 +2,7 @@
 
 This project demonstrates how to build a Party Planner Agent using the smolagents framework. The notebook walks through creating an AI agent that can help plan a party by suggesting playlists, recommending menus, and integrating monitoring tools for observability.
 
-Features ✨
+### Features ✨
 
 Playlist Selection: Choose and recommend music for your event.
 
@@ -12,7 +12,7 @@ Python Integration: Use imports and libraries to extend functionality.
 
 Observability: Integrate LangFuse and OpenTelemetry for inspection and debugging.
 
-Usage 🚀
+### Usage 🚀
 
 Open the notebook in Jupyter or VS Code and run through the cells step by step:
 
