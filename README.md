@@ -4,13 +4,13 @@ This project demonstrates how to build a Party Planner Agent using the smolagent
 
 ### Features ✨
 
-Playlist Selection: Choose and recommend music for your event.
+- Playlist Selection: Choose and recommend music for your event.
 
-Custom Menu Suggestions: Build a specialized tool to suggest food and drinks.
+- Custom Menu Suggestions: Build a specialized tool to suggest food and drinks.
 
-Python Integration: Use imports and libraries to extend functionality.
+- Python Integration: Use imports and libraries to extend functionality.
 
-Observability: Integrate LangFuse and OpenTelemetry for inspection and debugging.
+- Observability: Integrate LangFuse and OpenTelemetry for inspection and debugging.
 
 ### Usage 🚀
 
