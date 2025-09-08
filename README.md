@@ -14,19 +14,19 @@ This project demonstrates how to build a Party Planner Agent using the smolagent
 
 ### Usage 🚀
 
-Open the notebook in Jupyter or VS Code and run through the cells step by step:
+- Open the notebook in Jupyter or VS Code and run through the cells step by step:
 
-jupyter notebook Party-Planner-smolagent.ipynb
+- jupyter notebook Party-Planner-smolagent.ipynb
 
 Steps in the Notebook
 
-Agent Setup – Initialize the Party Planner agent.
+- Agent Setup – Initialize the Party Planner agent.
 
-Selecting a Playlist – Demonstration of playlist curation.
+- Selecting a Playlist – Demonstration of playlist curation.
 
-Custom Tool for Menu Suggestions – Create and use a tool for food recommendations.
+- Custom Tool for Menu Suggestions – Create and use a tool for food recommendations.
 
-Using Python Imports – Extend functionality with external libraries.
+- Using Python Imports – Extend functionality with external libraries.
 
 Integrating LangFuse & OpenTelemetry – Enable inspection and observability.
 
