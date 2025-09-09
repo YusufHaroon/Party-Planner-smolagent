@@ -28,9 +28,6 @@ Steps in the Notebook
 
 - Using Python Imports – Extend functionality with external libraries.
 
-Integrating LangFuse & OpenTelemetry – Enable inspection and observability.
+- Integrating LangFuse & OpenTelemetry – Enable inspection and observability.
 
 
-Contributing 🤝
-
-Pull requests are welcome! If you’d like to add new tools (e.g., decoration ideas, budget planning), feel free to contribute.
