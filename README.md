@@ -12,7 +12,7 @@ This project demonstrates how to build a Party Planner Agent using the smolagent
 
 - Observability: Integrate LangFuse and OpenTelemetry for inspection and debugging.
 
-### Usage 🚀
+### Usage 
 
 - Open the notebook in Jupyter or VS Code and run through the cells step by step:
 
