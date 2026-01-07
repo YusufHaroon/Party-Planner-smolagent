@@ -20,7 +20,7 @@ This project demonstrates how to build a Party Planner Agent using the smolagent
 
 Steps in the Notebook
 
-- Agent Setup – Initialize the Party Planner agent.
+- Agent Setup – Initialize the Party Planner agent
 
 - Selecting a Playlist – Demonstration of playlist curation.
 
