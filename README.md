@@ -18,7 +18,7 @@ This project demonstrates how to build a Party Planner Agent using the smolagent
 
 - jupyter notebook Party-Planner-smolagent.ipynb
 
-Steps in the Notebook
+Steps in the Notebook:
 
 - Agent Setup – Initialize the Party Planner agent
 
