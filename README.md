@@ -1,6 +1,6 @@
 ## Party Planner Agent
 
-This project demonstrates how to build a Party Planner Agent using the smolagents framework. The notebook walks through creating an AI agent that can help plan a party by suggesting playlists, recommending menus, and integrating monitoring tools for observability.
+This project demonstrates how to build Party Planner Agent using the smolagents framework. The notebook walks through creating an AI agent that can help plan a party by suggesting playlists, recommending menus, and integrating monitoring tools for observability.
 
 ### Features 
 
